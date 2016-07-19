@@ -1,1 +1,1 @@
-Diretório para arquivos de estudos, vários projetos básicos serão postados.
+Gerador de Senhas Seguras em PHP.
