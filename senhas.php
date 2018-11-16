@@ -8,7 +8,7 @@ Por: Erick Andrade
 Facebook: fb.com/erick0day
 Instagram: @erickandrade_
 Site: erickandrade.com.br
-E-mail: erickkaspersky@gmail.com
+E-mail: erick@erickandrade.com.br
 
 */
 
